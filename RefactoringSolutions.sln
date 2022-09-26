@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLGenerator", "HTMLGenerator\HTMLGenerator.csproj", "{2912F55C-E809-4ADC-9741-4F44A6B670BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLGeneratorTest", "HTMLGeneratorTest\HTMLGeneratorTest.csproj", "{A305098A-8F32-410A-A34E-7BF63C511A26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTMLGeneratorImproved", "HTMLGeneratorImproved\HTMLGeneratorImproved.csproj", "{7B8149A4-C06A-49DD-8D3B-AB9A6D2E7B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLGeneratorImprovedTest", "HTMLGeneratorImprovedTest\HTMLGeneratorImprovedTest.csproj", "{C8F19011-A71D-4A97-8C94-14C36B8AA581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Josephus", "Josephus\Josephus.csproj", "{E523E5FF-836A-47FC-A1F1-D71AB1A471B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JosephusTest", "JosephusTest\JosephusTest.csproj", "{AE0FF465-CCA1-479A-A77A-048349798503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2912F55C-E809-4ADC-9741-4F44A6B670BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2912F55C-E809-4ADC-9741-4F44A6B670BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2912F55C-E809-4ADC-9741-4F44A6B670BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2912F55C-E809-4ADC-9741-4F44A6B670BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A305098A-8F32-410A-A34E-7BF63C511A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A305098A-8F32-410A-A34E-7BF63C511A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A305098A-8F32-410A-A34E-7BF63C511A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A305098A-8F32-410A-A34E-7BF63C511A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8149A4-C06A-49DD-8D3B-AB9A6D2E7B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8149A4-C06A-49DD-8D3B-AB9A6D2E7B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8149A4-C06A-49DD-8D3B-AB9A6D2E7B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8149A4-C06A-49DD-8D3B-AB9A6D2E7B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F19011-A71D-4A97-8C94-14C36B8AA581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F19011-A71D-4A97-8C94-14C36B8AA581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F19011-A71D-4A97-8C94-14C36B8AA581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F19011-A71D-4A97-8C94-14C36B8AA581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E523E5FF-836A-47FC-A1F1-D71AB1A471B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E523E5FF-836A-47FC-A1F1-D71AB1A471B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E523E5FF-836A-47FC-A1F1-D71AB1A471B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E523E5FF-836A-47FC-A1F1-D71AB1A471B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0FF465-CCA1-479A-A77A-048349798503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0FF465-CCA1-479A-A77A-048349798503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0FF465-CCA1-479A-A77A-048349798503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0FF465-CCA1-479A-A77A-048349798503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE797EBF-D89C-4A1E-9FF5-63246B66EA1E}
+	EndGlobalSection
+EndGlobal
